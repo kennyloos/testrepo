@@ -1,3 +1,4 @@
+package edu.siu.pacman;
 import java.awt.Color;
 
 public class Ghost

@@ -1,3 +1,4 @@
+package edu.siu.pacman;
 public enum Direction
 {
     left, right, up, down;

@@ -1,3 +1,4 @@
+package edu.siu.pacman;
 import java.lang.Math.*;
 
 public class Body

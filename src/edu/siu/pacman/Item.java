@@ -1,3 +1,4 @@
+package edu.siu.pacman;
 public class Item
 {
     public static final int RADIUS = 2;
